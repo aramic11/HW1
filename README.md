@@ -1,2 +1,2 @@
 # HW1
-First Homework Assignment- Clean up code
+First Homework Assignment- Clean up the code.
