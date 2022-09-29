@@ -12,7 +12,8 @@ Website: https://aramic11.github.io/horiseon-refactor/
 GitHub Repository: https://github.com/aramic11/horiseon-refactor
 
 # Screenshot
-<img src="./assets/css/images/horiseon Snipit.png" alt= "pic of my website">
 
 
 
+
+![Horiseon Snipit](https://user-images.githubusercontent.com/113563367/192935196-1d3f1869-2ba3-436b-94ea-fe9bc3d4dd5d.png)
