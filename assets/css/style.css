@@ -91,24 +91,32 @@ p {
 }
 
 /*added these 3 together since they have the same attributes and values*/
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*added these 3 together since they have the same attributes and values*/
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+
+.benefit-lead h3, 
+.benefit-brand h3, 
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*added these 3 together since they have the same attributes and values*/
-.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+
+.benefit-lead img, 
+.benefit-brand img, 
+.benefit-cost img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*added these 3 together since they have the same attributes and values*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/*added these 3 together since they have the same attributes and values and changed to ID selectors since thats what they are in HTML*/
+#search-engine-optimization, 
+#online-reputation-management, 
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,13 +125,17 @@ p {
     color: #ffffff;
 }
 
-/*added these 3 together since they have the same attributes and values*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+
+#search-engine-optimization img, 
+#online-reputation-management img, 
+#social-media-marketing img {
     max-height: 200px;
 }
 
-/*added these 3 together since they have the same attributes and values*/
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+
+#search-engine-optimization h2, 
+#online-reputation-management h2, 
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
